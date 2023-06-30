@@ -13,12 +13,11 @@
 - 🤝 **Seamless Integration:** Easily integrate 2bttns into your app with the provided SDK and API.
 
 ## License 👔
-2bttns is licensed under the [Apache License 2.0](./profile/2bttns_LICENSE.md).
+2bttns is licensed under the [2bttns License 1.0](./profile/2bttns_LICENSE.md).
 
 - 🟢 **USE** the source code
 - 🟢 **MODIFY** the source code
 - 🟢 **DISTRIBUTE** copies of the original or modified source code
-- 🟢 **SUBLICENSE** the software
 - 🟢 **USE** the software for personal or commercial purposes
 - 🟢 **DISTRIBUTE** copies of the software in source or object form
 - 🟢 **INCLUDE** the license in your distributions
@@ -26,10 +25,11 @@
 - 🟢 **RETAIN** attribution notices in derivative works
 - 🟢 **INFORM** recipients of derivative works where they can obtain a copy of the original software
 
+- ❌ **SUBLICENSE** the software
 - ❌ **TAKE CREDIT** through trademarks or white labeling the source code
 - ❌ **HOLD US LIABLE** for any claims or damages arising from the use of the software
 
-Remember to consult the full Apache License 2.0 for complete details and accurate information.
+Remember to consult the full 2bttns License 1.0 for complete details and accurate information.
 
 ## Usage ⚙️
 To integrate 2bttns into your application, follow the provided documentation and guides available in the [docs](https://www.2bttns.com/docs/intro) directory. The documentation covers the SDK usage, API reference, integration best practices, and troubleshooting tips.
