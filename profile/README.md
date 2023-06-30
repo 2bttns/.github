@@ -4,11 +4,11 @@
 2bttns is a powerful SDK and API designed to capture rich user preference data and enable customization and personalization within your application. It empowers developers to create highly tailored and engaging user experiences while respecting user privacy.
 
 ## Key Features 🏆
-- **User-Driven Customization:** Allow users to provide feedback on their preferences through intuitive and interactive mini-games.
-- **Data Collection:** Gather valuable user preference data to personalize content and improve user engagement.
-- **Personalized Content Delivery:** Utilize the collected user preferences to dynamically customize content and deliver targeted recommendations.
-- **Human-in-the-Loop Design:** Engage users in the data collection process, reducing algorithmic bias and giving users control over their experiences.
-- **Seamless Integration:** Easily integrate 2bttns into your application with the provided SDK and API.
+- 🎮 **User-Driven Customization:** Let users provide feedback on their preferences through intuitive mini-games.
+- 📊 **Data Collection:** Gather valuable user preference data to personalize content and boost engagement.
+- 🎯 **Personalized Content Delivery:** Dynamically customize content based on user preferences for targeted recommendations.
+- 🙋‍♂️ **Human-in-the-Loop Design:** Involve users in data collection, reducing bias and giving them control over their experiences.
+- 🤝 **Seamless Integration:** Easily integrate 2bttns into your app with the provided SDK and API.
 
 ## Usage ⚙️
 To integrate 2bttns into your application, follow the provided documentation and guides available in the [docs](https://www.2bttns.com/docs/intro) directory. The documentation covers the SDK usage, API reference, integration best practices, and troubleshooting tips.
