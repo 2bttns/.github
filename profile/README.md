@@ -1,5 +1,13 @@
 # Welcome to 2bttns 👋
 
+### Table of Contents
+- [Description](#description-)
+- [Key Features](#key-features-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Contact](#contact-)
+
 ## Description ❓
 2bttns is a powerful SDK and API designed to capture rich user preference data and enable customization and personalization within your application. It empowers developers to create highly tailored and engaging user experiences while respecting user privacy.
 
