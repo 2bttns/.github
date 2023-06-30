@@ -19,7 +19,23 @@ We welcome contributions from the community to improve and enhance 2bttns. If yo
 Please ensure that your contributions adhere to the [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License 🤝
-2bttns is licensed under the [LICENSE GOES HERE](./).
+2bttns is licensed under the [Apache License 2.0](./2bttns_LICENSE.md).
+
+- 🟢 **USE** the source code
+- 🟢 **MODIFY** the source code
+- 🟢 **DISTRIBUTE** copies of the original or modified source code
+- 🟢 **SUBLICENSE** the software
+- 🟢 **USE** the software for personal or commercial purposes
+- 🟢 **DISTRIBUTE** copies of the software in source or object form
+- 🟢 **INCLUDE** the license in your distributions
+- 🟢 **REPRODUCE** the copyright notice
+- 🟢 **RETAIN** attribution notices in derivative works
+- 🟢 **INFORM** recipients of derivative works where they can obtain a copy of the original software
+
+- ❌ **TAKE CREDIT** through trademarks or white labeling the source code
+- ❌ **HOLD US LIABLE** for any claims or damages arising from the use of the software
+
+Remember to consult the full Apache License 2.0 for complete details and accurate information.
 
 ## Contact 🗣️
 For any inquiries or questions, please contact our support team at friends@2bttns.com.
