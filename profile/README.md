@@ -3,6 +3,8 @@
 ## Description ❓
 2bttns is a powerful SDK and API designed to capture rich user preference data and enable customization and personalization within your application. It empowers developers to create highly tailored and engaging user experiences while respecting user privacy.
 
+![image](/assets/flow.png)
+
 ## Key Features 🏆
 - 🎮 **User-Driven Customization:** Let users provide feedback on their preferences through intuitive mini-games.
 - 📊 **Data Collection:** Gather valuable user preference data to personalize content and boost engagement.
