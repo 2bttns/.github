@@ -5,7 +5,7 @@
 
 ### Boost engagement. Tailor content. Personalize experiences. 
 
-Add easy-to-play, addicting two-buttons games to collect data, rank user preferences, and personalize experiences right from the start.
+Integrate easy-to-play, addicting two-buttons games to collect data, rank user preferences, and personalize experiences right from the start.
 
 
 ***
