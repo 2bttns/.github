@@ -11,7 +11,7 @@ Integrate easy-to-play, addicting two-buttons games to collect data, rank user p
 ***
 
 
-* Start Here 👉 [Official Documentation](docs.2bttns.com) -- Official documentation, quick start, guides, and more.
+* Start Here 👉 [Official Documentation](https://docs.2bttns.com) -- Official documentation, quick start, guides, and more.
 * [Set up Console with Docker Compose](https://hub.docker.com/r/2bttns/2bttns) -- Containerized 2bttns platform. 
 * [Integrate with @2bttns/sdk](https://www.npmjs.com/package/@2bttns/sdk) -- Integrate games with the 2bttns Node.js SDK and API.
 * [Manage with 2bttns CLI](https://www.npmjs.com/package/@2bttns/2bttns-cli) -- the 2bttns CLI.
