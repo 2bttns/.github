@@ -1,7 +1,7 @@
 
 # Welcome to 2bttns (two buttons)👋
 
-> 2bttns 1.0.0 beta was launched in January 2024. Welcome to the ground floor. 
+> In Febraury 2024, we finally released 2bttns Beta. Welcome to the ground floor 🎉 
 
 ### Boost engagement. Tailor content. Personalize experiences. 
 
