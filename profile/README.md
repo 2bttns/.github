@@ -5,16 +5,12 @@
 
 ### Boost engagement. Tailor content. Personalize experiences. 
 
-Integrate easy-to-play, addicting two-buttons games to collect data, rank user preferences, and personalize experiences right from the start.
-
+Collect data and rank user preferences using a two-button game in your app.
 
 ***
 
-
 * Start Here 👉 [Official Documentation](https://docs.2bttns.com) -- Official documentation, quick start, guides, and more.
-* [Set up Console with Docker Compose](https://hub.docker.com/r/2bttns/2bttns) -- Containerized 2bttns platform. 
-* [Integrate with @2bttns/sdk](https://www.npmjs.com/package/@2bttns/sdk) -- Integrate games with the 2bttns Node.js SDK and API.
-* [Manage with 2bttns CLI](https://www.npmjs.com/package/@2bttns/2bttns-cli) -- the 2bttns CLI.
+* [Use the 2bttns CLI](https://www.npmjs.com/package/@2bttns/2bttns-cli) -- the 2bttns CLI.
 * [2bttns Repository](https://www.github.com/2bttns/2bttns) -- Contribute to our open-source codebases.
 * [Submit ticket](mailto:friends@2bttns.com) -- We read every thing, every day. Tell us where things went wrong, any ideas, a fun fact, or just say hello.
 
